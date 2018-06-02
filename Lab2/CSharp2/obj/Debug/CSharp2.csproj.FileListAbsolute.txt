@@ -1,0 +1,7 @@
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\bin\Debug\CSharp2.exe.config
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\bin\Debug\CSharp2.exe
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\bin\Debug\CSharp2.pdb
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\obj\Debug\CSharp2.csprojAssemblyReference.cache
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\obj\Debug\CSharp2.csproj.CoreCompileInputs.cache
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\obj\Debug\CSharp2.exe
+c:\users\pavel\Source\Repos\CSharp2\CSharp2\obj\Debug\CSharp2.pdb
